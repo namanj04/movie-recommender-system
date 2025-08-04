@@ -50,8 +50,7 @@ The dataset used is the [TMDB 5000 Movie Dataset](https://www.kaggle.com/dataset
 
 ## ▶️ Demo
 
-🎥 [Insert LinkedIn demo video link here]  
-💻 [Insert GitHub repository link if sharing elsewhere]
+🎥 [Demo video](https://www.linkedin.com/posts/namanj04_outrixexperience-movierecommender-python-activity-7358162862223093762-97Fg?utm_source=social_share_send&utm_medium=member_desktop_web&rcm=ACoAAFKDQ6oB0ihvsD7gwlR5OeUOgjAitFyYMB4)
 
 ---
 
